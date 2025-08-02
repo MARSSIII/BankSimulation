@@ -1,1 +1,2 @@
-# Bankomat simualator
+# Bankomat simulator
+
